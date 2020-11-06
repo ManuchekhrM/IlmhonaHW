@@ -33,6 +33,7 @@ public class Main {
         for (int r = 0; r < array0.length; r++) {
             Del = array0[r];
         }
-        return Del;
+        
     }
+    return Del;
 }

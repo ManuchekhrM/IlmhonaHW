@@ -21,6 +21,11 @@ public class Abonent {
         this.timeIntercityCall = timeIntercityCall;
         this.timeCityCall = timeCityCall;
 
+
+
+
+
+
     }
     public int getIdNumber() {
         return this.idNumber;
@@ -48,6 +53,7 @@ public class Abonent {
     public int getTimeCityCall() {
         return this.timeCityCall;
     }
+
 
 
 

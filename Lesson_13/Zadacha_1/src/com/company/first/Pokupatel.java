@@ -61,4 +61,12 @@ public class Pokupatel {
     public void setIdNumber(int idNumber) {
         this.idNumber = idNumber;
     }
+    public  void showInfo() {
+        System.out.println("имя" + this.name);
+        System.out.println("Фамилия" + this.lastName);
+        System.out.println("Отчество" + this.otchestvo);
+        System.out.println("адресс" + this.address);
+        System.out.println("Номер карты" + this.cardNumber);
+        System.out.println("Айди номер" + this.idNumber);
+    }
 }
